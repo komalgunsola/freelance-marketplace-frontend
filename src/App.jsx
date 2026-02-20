@@ -6,7 +6,7 @@ import Home from "./pages/Home.jsx";
 import Login from "./pages/Login.jsx";
 import Register from "./pages/Register.jsx";
 import Dashboard from "./pages/Dashboard.jsx";
-import Services from "./pages/Services.jsx";
+import Services from "./pages/ServicesPage.jsx";
 
 import ProtectedRoute from "./routes/ProtectedRoute.jsx";
 
