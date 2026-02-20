@@ -18,7 +18,7 @@ function Register() {
     }
 
     alert("Registered Successfully ✅");
-    window.location.href = "/login";
+    window.location.href = "/";
   };
 
   return (
